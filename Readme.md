@@ -1,38 +1,38 @@
-#🎯 Desafio Criativo: Simplificando Tarefas e Ganhando Foco com IA
+# 🎯 Desafio Criativo: Simplificando Tarefas e Ganhando Foco com IA
 
 ## Bem-vindo ao Desafio Criativo.
 
 Nesta atividade, você seguirá algumas etapas simples que, ao final, irão ajudar a criar prompts claros e úteis usando IA.
 
-#💡 Sobre o Exercício
+# 💡 Sobre o Exercício
 
 Um bom prompt nasce de intenção clara, contexto e instruções específicas. Durante o desafio, você irá organizar suas ideias e transformá-las em comandos claros.
 
-#🧩 Construção Passo a Passo
+# 🧩 Construção Passo a Passo
 
 Cada etapa adicionará uma nova peça ao seu prompt final. Ao concluir todas, você terá um prompt capaz de orientar uma IA a produzir exatamente o que você imaginou.
 
-#🚀 Como Resolver 
+# 🚀 Como Resolver 
 
 Siga cada passo com atenção, registre suas respostas e, ao final, una todos os elementos para formar seu prompt final. Aproveite o processo criativo!
 
-###🧱 Passo 1: Defina a intenção
+### 🧱 Passo 1: Defina a intenção
 
 Nesta etapa, você vai descrever o que quer que a IA faça e para quem.
 
-####✍️ O que fazer 
+#### ✍️ O que fazer 
 
 O que você quer gerar? Para quem? Qual o resultado esperado?
 
-##📋 Modelo para você adaptar
+## 📋 Modelo para você adaptar
 
 Quero que a IA gere [tipo de conteúdo] para [público], com o objetivo de [resultado].
 
-#✨ Prompt Resultado :
+# ✨ Prompt Resultado :
 
 Quero que a IA gere uma lista de tarefas diarias para que a minha polimatia não seja um obstaculo, Primeiro solicite uma lista de tarefas e depois crie um objetivo diario a ser atingido e monitore as tarefas satelites para que haja progresso, caso não exista tempo disponivel ela priorize no proximo dia usando o metodo do quadrante de covey baseado na Matriz de Eisenhower com o objetivo de melhorar a organização dos tarefas e o tempo. Quando puder ver as suas tarefas organizadas nestas quatro categorias, sera possivel montar o seu cronograma e realizar o trabalho mais importante. O conteúdo deve ter formato de quadrante, listando Urgente, Não Urgente, Importante e Não importante e a ação correspondente: Fazer, Agendar, Delegar, Excluir . Evite linguagem técnica.
 
-#🚀 Exemplo de Saida Gerada apos a execução do prompt:
+# 🚀 Exemplo de Saida Gerada apos a execução do prompt:
 
 Para que a sua polimatia e o seu fluxo constante de ideias se tornem superpoderes — e não fontes de distração —, nós precisamos de um sistema visual, prático e que tire o peso da sua mente.
 
@@ -82,7 +82,7 @@ Se o dia acabar e algumas tarefas importantes ficarem de fora por falta de tempo
 ---
 
 **Estou pronto!** Envie a sua lista de tarefas aqui embaixo e vamos transformá-la em um plano de ação visual e sem estresse.
-🧩 Inserindo a lista de tarefa
+### 🧩 Inserindo a lista de tarefa
 Limpeza do quintal, arrumação da mesa de eletrônica, compra de materiais para montagem do kit de eletronica, preparação para a prova de tecnico em informatica, montagem do plano de aula para as aulas da proxima semana, montagem do robo trashbot, publicação de artigo no linkedin, venda de cartuchos vazios e compra de novos, 
 
 Aqui está o seu plano de ação para hoje, desenhado para canalizar a sua polimatia, manter seus múltiplos projetos em movimento e garantir que as distrações fiquem de fora.
