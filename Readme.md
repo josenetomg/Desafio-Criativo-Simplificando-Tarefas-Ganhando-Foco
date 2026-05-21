@@ -64,6 +64,7 @@ Assim que você me enviar a sua lista, eu vou estruturar o seu dia seguindo exat
 
 Vou organizar as suas tarefas neste formato visual para você saber exatamente o que fazer:
 
+
 |  | **URGENTE** | **NÃO URGENTE** |
 | **IMPORTANTE** | **Quadrante 1: FAZER JÁ**|  **Quadrante 2: AGENDAR**|
 |<br> <br>|• *Crises e prazos imediatos.*<br> <br>👉 **Ação:** Resolver agora. |<br> <br>• *Planejamento, saúde, projetos de longo prazo.*<br> <br>👉 **Ação:** Colocar data e hora no calendário. |
