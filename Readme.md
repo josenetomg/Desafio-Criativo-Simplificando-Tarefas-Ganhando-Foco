@@ -66,7 +66,7 @@ Vou organizar as suas tarefas neste formato visual para você saber exatamente o
 
 
 |  | **URGENTE** | **NÃO URGENTE** |
-| **IMPORTANTE** | **Quadrante 1: FAZER JÁ**|  **Quadrante 2: AGENDAR**|
+| **IMPORTANTE** | **Quadrante 1: FAZER JÁ** |  **Quadrante 2: AGENDAR**|
 |<br> <br>|• *Crises e prazos imediatos.*<br> <br>👉 **Ação:** Resolver agora. |<br> <br>• *Planejamento, saúde, projetos de longo prazo.*<br> <br>👉 **Ação:** Colocar data e hora no calendário. |
 | **NÃO IMPORTANTE** | **Quadrante 3: DELEGAR**| **Quadrante 4: EXCLUIR**|
 |<br> <br>|• *Interrupções, e-mails menores, problemas dos outros.*<br> <br>👉 **Ação:** Passar para alguém ou automatizar. <br>|<br>• *Distrações, desperdício de tempo, excesso de redes sociais.*<br> <br>👉 **Ação:** Eliminar ou deixar para o fim do dia. |
