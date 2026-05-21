@@ -12,7 +12,7 @@ Um bom prompt nasce de intenção clara, contexto e instruções específicas. D
 
 Cada etapa adicionará uma nova peça ao seu prompt final. Ao concluir todas, você terá um prompt capaz de orientar uma IA a produzir exatamente o que você imaginou.
 
-🚀 Como Resolver
+🚀 Como Resolver 
 
 Siga cada passo com atenção, registre suas respostas e, ao final, una todos os elementos para formar seu prompt final. Aproveite o processo criativo!
 
@@ -20,7 +20,7 @@ Siga cada passo com atenção, registre suas respostas e, ao final, una todos os
 
 Nesta etapa, você vai descrever o que quer que a IA faça e para quem.
 
-✍️ O que 
+✍️ O que fazer 
 
 O que você quer gerar? Para quem? Qual o resultado esperado?
 
@@ -28,7 +28,7 @@ O que você quer gerar? Para quem? Qual o resultado esperado?
 
 Quero que a IA gere [tipo de conteúdo] para [público], com o objetivo de [resultado].
 
-✨ Pronpt Resultado
+✨ Prompt Resultado :
 
 Quero que a IA gere uma lista de tarefas diarias para que a minha polimatia não seja um obstaculo, Primeiro solicite uma lista de tarefas e depois crie um objetivo diario a ser atingido e monitore as tarefas satelites para que haja progresso, caso não exista tempo disponivel ela priorize no proximo dia usando o metodo do quadrante de covey baseado na Matriz de Eisenhower com o objetivo de melhorar a organização dos tarefas e o tempo. Quando puder ver as suas tarefas organizadas nestas quatro categorias, sera possivel montar o seu cronograma e realizar o trabalho mais importante. O conteúdo deve ter formato de quadrante, listando Urgente, Não Urgente, Importante e Não importante e a ação correspondente: Fazer, Agendar, Delegar, Excluir . Evite linguagem técnica.
 
@@ -65,12 +65,10 @@ Assim que você me enviar a sua lista, eu vou estruturar o seu dia seguindo exat
 Vou organizar as suas tarefas neste formato visual para você saber exatamente o que fazer:
 
 |  | **URGENTE** | **NÃO URGENTE** |
-
-| **IMPORTANTE** | **Quadrante 1: FAZER JÁ**<br> <br>• *Crises e prazos imediatos.*<br> <br>👉 **Ação:** Resolver agora. | **Quadrante 2: AGENDAR**<br> <br>• *Planejamento, saúde, projetos de longo prazo.*<br> <br>👉 **Ação:** Colocar data e hora no calendário. |
-
-| **NÃO IMPORTANTE** | **Quadrante 3: DELEGAR**<br> <br>• *Interrupções, e-mails menores, problemas dos outros.*<br> <br>👉 **Ação:** Passar para alguém ou automatizar. | **Quadrante 4: EXCLUIR**<br>
-<br>• *Distrações, desperdício de tempo, excesso de redes sociais.*<br> <br>👉 **Ação:** Eliminar ou deixar para o fim do dia. |
-
+| **IMPORTANTE** | **Quadrante 1: FAZER JÁ**|  **Quadrante 2: AGENDAR**|
+|<br> <br>|• *Crises e prazos imediatos.*<br> <br>👉 **Ação:** Resolver agora. |<br> <br>• *Planejamento, saúde, projetos de longo prazo.*<br> <br>👉 **Ação:** Colocar data e hora no calendário. |
+| **NÃO IMPORTANTE** | **Quadrante 3: DELEGAR**| **Quadrante 4: EXCLUIR**|
+|<br> <br>|• *Interrupções, e-mails menores, problemas dos outros.*<br> <br>👉 **Ação:** Passar para alguém ou automatizar. <br>|<br>• *Distrações, desperdício de tempo, excesso de redes sociais.*<br> <br>👉 **Ação:** Eliminar ou deixar para o fim do dia. |
 ---
 
 ### Passo 3: A Regra do Próximo Dia (Caso falte tempo)
