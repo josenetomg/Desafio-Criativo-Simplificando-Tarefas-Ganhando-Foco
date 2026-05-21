@@ -1,38 +1,38 @@
-🎯 Desafio Criativo: Simplificando Tarefas e Ganhando Foco com IA
+#🎯 Desafio Criativo: Simplificando Tarefas e Ganhando Foco com IA
 
-Bem-vindo ao Desafio Criativo.
+## Bem-vindo ao Desafio Criativo.
 
 Nesta atividade, você seguirá algumas etapas simples que, ao final, irão ajudar a criar prompts claros e úteis usando IA.
 
-💡 Sobre o Exercício
+#💡 Sobre o Exercício
 
 Um bom prompt nasce de intenção clara, contexto e instruções específicas. Durante o desafio, você irá organizar suas ideias e transformá-las em comandos claros.
 
-🧩 Construção Passo a Passo
+#🧩 Construção Passo a Passo
 
 Cada etapa adicionará uma nova peça ao seu prompt final. Ao concluir todas, você terá um prompt capaz de orientar uma IA a produzir exatamente o que você imaginou.
 
-🚀 Como Resolver 
+#🚀 Como Resolver 
 
 Siga cada passo com atenção, registre suas respostas e, ao final, una todos os elementos para formar seu prompt final. Aproveite o processo criativo!
 
-🧱 Passo 1: Defina a intenção
+###🧱 Passo 1: Defina a intenção
 
 Nesta etapa, você vai descrever o que quer que a IA faça e para quem.
 
-✍️ O que fazer 
+####✍️ O que fazer 
 
 O que você quer gerar? Para quem? Qual o resultado esperado?
 
-📋 Modelo para você adaptar
+##📋 Modelo para você adaptar
 
 Quero que a IA gere [tipo de conteúdo] para [público], com o objetivo de [resultado].
 
-✨ Prompt Resultado :
+#✨ Prompt Resultado :
 
 Quero que a IA gere uma lista de tarefas diarias para que a minha polimatia não seja um obstaculo, Primeiro solicite uma lista de tarefas e depois crie um objetivo diario a ser atingido e monitore as tarefas satelites para que haja progresso, caso não exista tempo disponivel ela priorize no proximo dia usando o metodo do quadrante de covey baseado na Matriz de Eisenhower com o objetivo de melhorar a organização dos tarefas e o tempo. Quando puder ver as suas tarefas organizadas nestas quatro categorias, sera possivel montar o seu cronograma e realizar o trabalho mais importante. O conteúdo deve ter formato de quadrante, listando Urgente, Não Urgente, Importante e Não importante e a ação correspondente: Fazer, Agendar, Delegar, Excluir . Evite linguagem técnica.
 
-🚀 Exemplo de Saida Gerada apos a execução do prompt:
+#🚀 Exemplo de Saida Gerada apos a execução do prompt:
 
 Para que a sua polimatia e o seu fluxo constante de ideias se tornem superpoderes — e não fontes de distração —, nós precisamos de um sistema visual, prático e que tire o peso da sua mente.
 
@@ -102,40 +102,13 @@ Aqui está o seu plano de ação para hoje, desenhado para canalizar a sua polim
 
 |  | **URGENTE** | **NÃO URGENTE** |
 | --- | --- | --- |
-| **IMPORTANTE** | **Quadrante 1: FAZER**<br>
-
-<br>• Preparação para a prova de técnico em informática.<br>
-
-<br>• Montagem do plano de aula para a próxima semana.<br>
-
-<br>
-
-<br>👉 *Ação: Foque aqui primeiro. Elimine as distrações até concluir.* | **Quadrante 2: AGENDAR**<br>
-
-<br>• Compra de materiais para montagem do kit de eletrônica.<br>
-
-<br>• Montagem do robô *Trashbot*.<br>
-
-<br>• Publicação de artigo no LinkedIn.<br>
-
-<br>
-
-<br>👉 *Ação: Defina um dia e horário na agenda para cada uma dessas atividades.* |
-| **NÃO IMPORTANTE** | **Quadrante 3: DELEGAR**<br>
-
-<br>• Limpeza do quintal.<br>
-
-<br>• Venda de cartuchos vazios e compra de novos.<br>
-
-<br>
-
-<br>👉 *Ação: Se puder, peça ajuda em casa ou contrate/automatize. Se não for possível, faça rápido após o Quadrante 1.* | **Quadrante 4: EXCLUIR**<br>
-
-<br>• Arrumação da mesa de eletrônica.<br>
-
-<br>
-
-<br>👉 *Ação: Deixe para o final de semana ou após o robô estar pronto. Arrumar a mesa agora é uma "distração produtiva" que tira o foco da prova.* |
+| **IMPORTANTE** | **Quadrante 1: FAZER**|
+|<br> <br>|• Preparação para a prova de técnico em informática.<br> <br>• Montagem do plano de aula para a próxima semana.<br><br>
+<br>👉 *Ação: Foque aqui primeiro. Elimine as distrações até concluir.* | **Quadrante 2: AGENDAR**<br> <br>• Compra de materiais para montagem do kit de eletrônica.<br> <br>• Montagem do robô *Trashbot*.<br> <br>• Publicação de artigo no LinkedIn.<br>
+<br> <br>👉 *Ação: Defina um dia e horário na agenda para cada uma dessas atividades.* |
+| **NÃO IMPORTANTE** | **Quadrante 3: DELEGAR**|
+|<br> <br>|• Limpeza do quintal.<br> <br>• Venda de cartuchos vazios e compra de novos.<br> <br><br>👉 *Ação: Se puder, peça ajuda em casa ou contrate/automatize. Se não for possível, faça rápido após o Quadrante 1.* | **Quadrante 4: EXCLUIR**<br>
+<br>• Arrumação da mesa de eletrônica.<br><br> <br>👉 *Ação: Deixe para o final de semana ou após o robô estar pronto. Arrumar a mesa agora é uma "distração produtiva" que tira o foco da prova.* |
 
 ---
 
